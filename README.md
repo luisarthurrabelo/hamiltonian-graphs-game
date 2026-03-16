@@ -1,4 +1,4 @@
-##hamiltonian-graphs-game
+hamiltonian-graphs-game
 
 O jogo é um quebra-cabeça desenvolvido em Unity baseado no Icosian game. O objetivo é desafiar o jogador a encontrar um caminho Hamiltoniano em diferentes estruturas de grafos.
 
